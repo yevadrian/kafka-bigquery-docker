@@ -2,7 +2,7 @@
 
 Ingest stream data of Twitter recent search using Twitter API. 
 The stream data will be published in JSON and the results loaded into Google BigQuery table.
-Kafka server and Zookeeper will automatically start after Docker Compose file up.
+Kafka server and Zookeeper will automatically run after compose up.
 
 ##### Clone this repository and enter the directory
 ```bash
