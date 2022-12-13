@@ -1,4 +1,4 @@
-### Using Apache Kafka to ingest stream data from Twitter API and load the results into Google BigQuery
+### Using Apache Kafka to ingest stream data from Twitter and load the results into Google BigQuery
 
 Ingest stream data of Twitter recent search using Twitter API. 
 The stream data will be published in JSON and the results loaded into Google BigQuery table.
